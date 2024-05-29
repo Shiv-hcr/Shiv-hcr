@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shiv
-- 👀 I’m interested in front-end dev within the legal tech industry. The primary language I use is TypeScript
+- 👀 I’m interested in front-end dev within the legal tech industry. The primary languages I use are TypeScript & JavaScript
 - 🌱 I’m currently learning: PHP, C
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
